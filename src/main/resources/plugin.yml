@@ -1,0 +1,4 @@
+name: timbersaw
+version: '1.0-SNAPSHOT'
+main: me.timbersaw.timbersaw.Timbersaw
+api-version: '1.21'
